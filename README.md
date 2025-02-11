@@ -1,17 +1,18 @@
 ### 👋 Hi there, I'm Kristian!
 
-I'm a software engineer with a passion for building web and mobile applications. Over the past few years, I've worked extensively with **React**, **Next.js**, **React Native**, and **TypeScript**, creating feature-rich and responsive apps. I also have a background in **embedded systems**, including **RTOS** and **embedded Linux**, which gave me a strong foundation in low-level programming, directly interacting with hardware and system resources.
+I'm a software engineer with a passion for building web and mobile applications. Over the past few years, I've worked extensively with **React**, **Next.js**, **React Native** and **TypeScript**, creating feature-rich and responsive apps. I also have a background in **embedded systems**, including **RTOS** and **embedded Linux**, which gave me a strong foundation in low-level programming, directly interacting with hardware and system resources.
 
 ---
 
 ### Technologies I Work With:
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -28,8 +29,8 @@ I'm a software engineer with a passion for building web and mobile applications.
 </p>
 
 
-- **Frontend**: React, Next.js, TypeScript, HTML, CSS
-- **Mobile**: React Native, TypeScript
+- **Frontend**: React, Next.js, TypeScript
+- **Mobile**: React Native, Expo, TypeScript
 - **Backend**: Node.js, Express.js, Supabase
 - **AI**: AI-driven apps (RAGs, agents, No-Code AI tools)
 - **Embedded Systems**: FreeRTOS, Embedded Linux
