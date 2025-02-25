@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm Kristian!
 
-I'm a software engineer with a passion for building web and mobile applications. Over the past few years, I've worked extensively with **React**, **Next.js**, **React Native** and **TypeScript**, creating feature-rich and responsive apps. I also have a background in **embedded systems**, including **RTOS** and **embedded Linux**, which gave me a strong foundation in low-level programming, directly interacting with hardware and system resources.
-
 ---
 
 ### Technologies I Work With:
